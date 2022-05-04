@@ -10,7 +10,7 @@
 - 4. Version control through Git
 - 3. Django MVC framework and REST framwwork 
 - 4. Nodejs Express and Mysql for database
-- 
+
 <!---
 SabinGt/SabinGt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
