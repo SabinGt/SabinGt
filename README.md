@@ -9,7 +9,7 @@
 - 3. Pyhton, Java, .net, and php proframming language 
 - 4. Version control through Git
 - 3. Django MVC framework and REST framwwork 
-- 4. Nodejs Express and Mysql for database
+- 4. Nodejs Express.js and Mysql MongoDB for database
 
 <!---
 SabinGt/SabinGt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
